@@ -1,0 +1,14 @@
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\bin\Debug\net10.0\fya-poo-atv01.exe
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\bin\Debug\net10.0\fya-poo-atv01.deps.json
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\bin\Debug\net10.0\fya-poo-atv01.runtimeconfig.json
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\bin\Debug\net10.0\fya-poo-atv01.dll
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\bin\Debug\net10.0\fya-poo-atv01.pdb
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\obj\Debug\net10.0\fya-poo-atv01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\obj\Debug\net10.0\fya-poo-atv01.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\obj\Debug\net10.0\fya-poo-atv01.AssemblyInfo.cs
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\obj\Debug\net10.0\fya-poo-atv01.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\obj\Debug\net10.0\fya-poo-atv01.dll
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\obj\Debug\net10.0\refint\fya-poo-atv01.dll
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\obj\Debug\net10.0\fya-poo-atv01.pdb
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\obj\Debug\net10.0\fya-poo-atv01.genruntimeconfig.cache
+C:\Users\Pedro\Documents\c#\fya-poo-atv01\obj\Debug\net10.0\ref\fya-poo-atv01.dll
